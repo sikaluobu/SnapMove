@@ -1,0 +1,10 @@
+# runtime output
+*.log
+selftest.log
+desktop_now.png
+pin_printwindow.png
+e2e_clipboard.png
+
+# build leftovers
+*.pdb
+*.obj
